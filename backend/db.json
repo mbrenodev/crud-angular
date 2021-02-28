@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Notebook",
+      "price": 12000.89
+    },
+    {
+      "id": 3,
+      "name": "Samsung 20s plus",
+      "price": "5729.89"
+    },
+    {
+      "name": "Caneta",
+      "price": "20.00",
+      "id": 7
+    }
+  ]
+}
